@@ -1,0 +1,21 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
+.main {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+  text-align: center;
+}
+
+.git {
+  height: 50%;
+  width: 40%;
+  overflow: scroll;
+}
+
+.git1 {
+  margin: 5px;
+  padding: 10px;
+}
